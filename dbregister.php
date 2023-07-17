@@ -20,7 +20,6 @@
 <a href="yotei.php">予定確認</a>
 <a href="logout.php">ログアウト</a>
 <a href="logout.php">ログアウト</a>
-</p>
 </div>
 </body>
 </html>
