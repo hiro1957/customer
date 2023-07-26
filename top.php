@@ -35,7 +35,7 @@
 <body>
     <center>
 <h1>メニュー</h1>
-<h1><a href="total.php">顧客管理</a></td>
+
 <h1><a href="total.php">顧客一覧</a></h1>
 <h1><a href="search.php">検索画面</a></h1>
 <h1><a href="yoteiinput.php">予定入力</a></h1>
