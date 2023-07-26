@@ -59,8 +59,6 @@ if (password_verify($password,$result['password']) && isset($password) !== null)
 <h4 class="alert-heading">間違っています</h4>
 アドレスが間違っています。
 </div>
-<?php echo $_SESSION['email']; ?>
-<? var_dump($_SESSION['email']) ?>
 
 <?php
 }
