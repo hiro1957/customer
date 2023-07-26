@@ -64,7 +64,7 @@
             let message = [];
             /*入力値チェック*/
             if(inputPassword.value ==""){
-                message.push("氏名が未入力です。");
+                message.push("パスワードが未入力です。");
             }
             if(inputMail.value==""){
                 message.push("メールアドレスが未入力です。");
