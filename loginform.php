@@ -75,7 +75,7 @@
                 alert(message);
                 return;
             }
-            alert('入力チェックOK');
+           
         });
     };
 </script>
